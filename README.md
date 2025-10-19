@@ -185,5 +185,6 @@ Try these starter prompts:
 - **Gradio & Google Gemini**: Core tooling powering the conversational experience.
 
 _For questions, suggestions, or collaboration opportunities, open an issue or drop a note in the repo discussions._
-#   F i x - F u r n  
+#   F i x - F u r n 
+ 
  
