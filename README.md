@@ -6,19 +6,20 @@ Fix&Furn Mini is a one-day demo chatbot that blends a curated showroom catalog w
 
 ## Table of Contents
 1. [Demo Video](#demo-video)
-2. [Key Features](#key-features)
-3. [Architecture](#architecture)
-4. [Datasets & Pricing References](#datasets--pricing-references)
-5. [Project Layout](#project-layout)
-6. [Getting Started](#getting-started)
-7. [Environment Configuration](#environment-configuration)
-8. [Running the App](#running-the-app)
-9. [Using the Chatbot](#using-the-chatbot)
-10. [Logging & Outputs](#logging--outputs)
-11. [Testing](#testing)
-12. [Troubleshooting](#troubleshooting)
-13. [Roadmap & Ideas](#roadmap--ideas)
-14. [Acknowledgements](#acknowledgements)
+2. [Hugging Face Space](#hf_space)
+3. [Key Features](#key-features)
+4. [Architecture](#architecture)
+5. [Datasets & Pricing References](#datasets--pricing-references)
+6. [Project Layout](#project-layout)
+7. [Getting Started](#getting-started)
+8. [Environment Configuration](#environment-configuration)
+9. [Running the App](#running-the-app)
+10. [Using the Chatbot](#using-the-chatbot)
+11. [Logging & Outputs](#logging--outputs)
+12. [Testing](#testing)
+13. [Troubleshooting](#troubleshooting)
+14. [Roadmap & Ideas](#roadmap--ideas)
+15. [Acknowledgements](#acknowledgements)
 
 ---
 
@@ -28,7 +29,8 @@ Fix&Furn Mini is a one-day demo chatbot that blends a curated showroom catalog w
 > 
 
 ---
-Space HF Repo: https://huggingface.co/spaces/NourFakih/Fix-Furn
+## Hugging Face Space:
+https://huggingface.co/spaces/NourFakih/Fix-Furn
 
 
 ---
