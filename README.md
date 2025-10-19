@@ -1,4 +1,4 @@
-# Fix&Furn Mini – Furniture Concierge & Repair Estimator
+# Fix&Furn Mini – **Furniture Sales & Repair Concierge**
 
 Fix&Furn Mini is a one-day demo chatbot that blends a curated showroom catalog with an IKEA Saudi partner lineup and a rule-driven repair estimator. The assistant runs entirely inside a Gradio app, taps Google Gemini with structured tool calls, and logs every customer lead, unresolved question, and post-service satisfaction note for the team.
 
