@@ -23,11 +23,13 @@ Fix&Furn Mini is a one-day demo chatbot that blends a curated showroom catalog w
 ---
 
 ## Demo Video
-> _Drop your Loom, YouTube, or MP4 link here once available._
->
-> ```
-> [![Fix&Furn Mini Demo](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
-> ```
+> 
+> <video src="NourFakih/Fix-Furn/Fix-Furn - a Hugging Face Space by NourFakih - Google Chrome-.mp4" controls title="Fix&Furn Mini demo x2"></video>
+> 
+
+---
+Space HF Repo: https://huggingface.co/spaces/NourFakih/Fix-Furn
+
 
 ---
 
