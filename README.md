@@ -29,12 +29,21 @@ Fix&Furn Mini is a one-day demo chatbot that blends a curated showroom catalog w
 > 
 
 ---
+<<<<<<< HEAD
+Space HF Repo: https://huggingface.co/spaces/NourFakih/Fix-Furn
+=======
 ## Hugging Face Space:
 https://huggingface.co/spaces/NourFakih/Fix-Furn
+>>>>>>> 7faa6ffbd7c0fc248c8e6762bda19b24cb7abe1d
 
+<<<<<<< HEAD
+---
+
+=======
 
 ---
 
+>>>>>>> 7faa6ffbd7c0fc248c8e6762bda19b24cb7abe1d
 ## Key Features
 - **Interactive Gemini Chatbot**: Structured tool calls route user requests to product lookup, repair estimates, lead capture, feedback, and post-service satisfaction logging.
 - **Two-Tier Catalog Support**: Combines five Fix&Furn hero SKUs with an IKEA Saudi dataset presented as the “Fix&Furn × IKEA Partner Line.”
