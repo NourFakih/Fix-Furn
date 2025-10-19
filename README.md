@@ -184,6 +184,3 @@ Try these starter prompts:
 - **Workshop Pricing References**: `price_list_2023.pdf` and `repairPriceArticle.txt` (HomeAdvisor, Aug 2025) underpin the repair cost heuristics.
 - **Gradio & Google Gemini**: Core tooling powering the conversational experience.
 
-
- 
- 
