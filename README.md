@@ -28,6 +28,8 @@ Fix&Furn Mini is a one-day demo chatbot that blends a curated showroom catalog w
 >
 
 > [![Watch the Fix&Furn Mini demo](https://drive.google.com/file/d/1uFWmwep-Q_Bvu0h9iTrKOhMtqYJlwOEL/view?usp=drive_link)
+> ▶️ **[Watch the demo (Google Drive)](https://drive.google.com/uc?export=preview&id=1uFWmwep-Q_Bvu0h9iTrKOhMtqYJlwOEL)**
+
 
 > 
 
