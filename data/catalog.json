@@ -1,0 +1,105 @@
+[
+  {
+    "name": "Atlas Dining Table",
+    "sku": "AT-120-OAK",
+    "category": "Table",
+    "dimensions_cm": {
+      "W": 180,
+      "D": 90,
+      "H": 75
+    },
+    "material_primary": "Solid oak top, steel legs",
+    "color_options": [
+      "Natural Oak",
+      "Walnut Stain",
+      "Black Base"
+    ],
+    "price_usd": 649,
+    "stock_qty": 7,
+    "warranty_months": 12,
+    "assembly_required": false,
+    "notes": "Oil finish; seats 6\u20138; available with matching bench."
+  },
+  {
+    "name": "Nora 3-Seater Sofa",
+    "sku": "NR-300-FAB",
+    "category": "Sofa",
+    "dimensions_cm": {
+      "W": 210,
+      "D": 90,
+      "H": 84
+    },
+    "material_primary": "Kiln-dried wood frame, foam cushions",
+    "color_options": [
+      "Linen Sand",
+      "Charcoal",
+      "Forest Green"
+    ],
+    "price_usd": 899,
+    "stock_qty": 3,
+    "warranty_months": 12,
+    "assembly_required": true,
+    "notes": "Removable cushion covers; add-on ottoman available."
+  },
+  {
+    "name": "Milo Glass Coffee Table",
+    "sku": "ML-080-GLS",
+    "category": "Coffee Table",
+    "dimensions_cm": {
+      "W": 120,
+      "D": 60,
+      "H": 40
+    },
+    "material_primary": "Tempered glass top, ash wood base",
+    "color_options": [
+      "Clear Glass / Natural Ash",
+      "Smoked Glass / Black Ash"
+    ],
+    "price_usd": 279,
+    "stock_qty": 12,
+    "warranty_months": 12,
+    "assembly_required": false,
+    "notes": "Replacement glass available by order."
+  },
+  {
+    "name": "Ava Bookshelf",
+    "sku": "AV-150-ASH",
+    "category": "Bookshelf",
+    "dimensions_cm": {
+      "W": 80,
+      "D": 35,
+      "H": 180
+    },
+    "material_primary": "Laminated ash veneer over MDF, steel frame",
+    "color_options": [
+      "Natural Ash",
+      "Walnut",
+      "Matte Black"
+    ],
+    "price_usd": 349,
+    "stock_qty": 10,
+    "warranty_months": 12,
+    "assembly_required": true,
+    "notes": "Anti-tip kit included; adjustable shelves."
+  },
+  {
+    "name": "Luna Writing Desk",
+    "sku": "LN-110-WAL",
+    "category": "Desk",
+    "dimensions_cm": {
+      "W": 120,
+      "D": 60,
+      "H": 75
+    },
+    "material_primary": "Walnut veneer top, steel frame",
+    "color_options": [
+      "Walnut / Black",
+      "Walnut / White"
+    ],
+    "price_usd": 399,
+    "stock_qty": 6,
+    "warranty_months": 12,
+    "assembly_required": true,
+    "notes": "Cable grommet included; optional drawer module."
+  }
+]

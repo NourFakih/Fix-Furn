@@ -1,0 +1,16 @@
+Fix&Furn Mini is a micro furniture shop and repair concierge you can demo in one day.
+
+Scope:
+- Answer product questions about the in-house catalog (dimensions, materials, color options, price, stock, warranty).
+- Reference an IKEA Saudi Arabia dataset (positioned as our Fix&Furn x IKEA Partner Line) to suggest comparable items by item_id, name, price, dimensions, colors, and online availability.
+- IKEA list prices are converted from SAR at roughly 1 SAR ~= 0.2667 USD so conversations stay in USD.
+- Estimate repair price and turnaround ranges for common issues (scratches, broken glass, loose joints, hinge or drawer alignment, minor upholstery tears, refinishing, repainting). Pricing bands blend the 2023 workshop rate card with 2025 national averages.
+- Capture qualified leads (name, email, intent) and log unanswered questions for follow-up.
+- Collect post-service satisfaction feedback (product purchases, repairs, delivery experience).
+
+Operating assumptions:
+- The Fix&Furn showroom highlights five hero products with known SKUs, inventory counts, and 12-month warranty.
+- IKEA data is used as an external benchmark only; final pricing and availability must be confirmed with suppliers.
+- Standard workshop turnaround is 2-5 days; glass or fabric special orders run 4-10 days.
+- Repairs carry a 30-day workmanship warranty.
+- Service coverage stays within city limits, with pickup/delivery available for a quoted fee outside the chatbot.
